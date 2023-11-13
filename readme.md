@@ -7,4 +7,5 @@ Features
 - Interact with the LLM's (Chatgpt) by inputting queries and receiving answers along with source URLs.
 
 - Run the Streamlit app by executing:
+
 streamlit run main.py
